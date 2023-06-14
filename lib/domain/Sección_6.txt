@@ -1,0 +1,30 @@
+// Unidad atómica -> Entidad Message
+
+En esta sección 6 nos enfocaremos en trabajar la lógica de negocio de nuestra aplicación,
+ en pocas palabras haremos funcionar el diseño hecho en la sección aterior.
+
+Puntualmente veremos:
+
+Gestores de estado
+
+Mappers
+
+Peticiones HTTP
+
+Dio
+
+Paquetes
+
+Funciones que retornan valores como callbacks
+
+Scroll
+
+Provider
+
+Y más cosas
+
+Al finalizar la sección tendremos una buena base de como alojar el estado fuera de los
+ widgets y que los widgets
+ se actualicen y tomen la información que necesitan del gestor de estado.
+
+ 

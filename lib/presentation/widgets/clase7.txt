@@ -1,0 +1,13 @@
+En esta clase lo que hicimos fue personalizar las burbujas del chat.
+
+Como vemos el ListView y le pasamos un nuevo widget personalizado (MyBurbleMessage).
+
+En el listview se maneja las preferencias del chat, la cantidad de elementos presentes, su disposición.
+
+Mientras que en el burblemessage manejamos las preferencias de las burbujas del chat.
+ Entre lo factores que modificamos esta el tamaño de la burbuja (container)
+ Su tema (Eso lo modificamos con colors.primary, y final colors = Theme.of(context).colorScheme; ),
+ donde le especificamos al widget que colors esta ligado a los temas que preestablecimos en clases anteriores.
+
+
+ 

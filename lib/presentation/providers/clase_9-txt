@@ -1,0 +1,16 @@
+En esta clase el objetivo era cambiar el texto preestablecido por el texto que nosotros tipeamos 
+en la caja.
+
+para esto lo primeroq ue hicimos fue declarar 
+/*
+Future<void> sendMessage( String text) async{
+    final newMessage = Message(text: text, fromWho: FromWho.me);
+    messageList.add(newMessage);
+
+notifyListeners();
+  }
+
+  En resumen, la función sendMessage se utiliza para enviar un mensaje. Crea un nuevo 
+  objeto Message con el texto proporcionado y lo marca como enviado desde "me". Luego, 
+  agrega ese mensaje a la lista messageList y notifica a los oyentes sobre el cambio. 
+  */

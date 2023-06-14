@@ -1,0 +1,12 @@
+Lo que hicimos en esta clase fue:
+
+
+Modificar estos parametros en chat_screen:
+
+    : MyMessageBubble( message : message);
+
+
+Añadir esto en MymessageBubble
+ final Message message;
+
+  const MyMessageBubble({super.key, required this.message});
